@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/i-am-anujsingh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/i-am-anujsingh/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Trie
 |  |
 | ------- |
